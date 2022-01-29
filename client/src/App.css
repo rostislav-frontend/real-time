@@ -1,0 +1,19 @@
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  width: 1200px;
+}
+.form {
+  display: flex;
+}
+.form input {
+  width: 300px;
+}
+.form button {
+  width: 200px;
+}
+.messages {
+  border: 1px black solid
+}
